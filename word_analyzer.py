@@ -39,7 +39,7 @@ print(f"Vowels: {vowel_count}")
 print(f"Consonants: {consonant_count}")
 print("Palindrome:", "Yes" if is_palindrome else "No")
 
-Output:
+Output 1:
 Enter a sentence: madam
 --- Analysis Results ---
 Words: 1
@@ -47,4 +47,25 @@ Characters: 5
 Vowels: 2
 Consonants: 3
 Palindrome: Yes
+
+Output 2:
+Enter a sentence: malayalam
+--- Analysis Results ---
+Words: 1
+Characters: 9
+Vowels: 4
+Consonants: 5
+Palindrome: Yes
+
+Output 3:
+Enter a sentence: assassination
+--- Analysis Results ---
+Words: 1
+Characters: 13
+Vowels: 6
+Consonants: 7
+Palindrome: No
+
+
+
 
